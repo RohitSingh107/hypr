@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 pkill swaybg
-swaybg -o 'eDP-1' -i "/usr/share/wallpapers/garuda-wallpapers/Aurora Dragon.png" -m fill &
+swaybg -o 'eDP-1' -i "/usr/share/wallpapers/garuda-wallpapers/Abstract.jpg" -m fill &
+
